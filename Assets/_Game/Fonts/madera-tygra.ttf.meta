@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a49e7b79d1210754484fc14d77cf2074
+timeCreated: 1492027860
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Madera TYGRA
+  fontNames:
+  - Madera TYGRA
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

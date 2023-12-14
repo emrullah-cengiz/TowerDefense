@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 615af1e069add0e43bc3d8b43c42126a
+timeCreated: 1492027860
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Irmologion
+  fontNames:
+  - Irmologion
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

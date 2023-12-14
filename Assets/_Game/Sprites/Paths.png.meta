@@ -1,0 +1,766 @@
+fileFormatVersion: 2
+guid: 666b2372adbeb4242bea792b07f9c39f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 744
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311d78434b978a2409001af65934a8e7
+      internalID: -1069984866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 744
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d9232d386800646bf515a0a7a0a55d
+      internalID: 1602596337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 793
+        width: 370
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646f900016afbcd46b95777071b9553c
+      internalID: 88368262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 516
+        width: 287
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53aaba0c497d4bb41933fd33ed1244f1
+      internalID: 673726318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 733
+        width: 213
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88439ca2e72681c42bfc137df828d4f6
+      internalID: 737610163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 562
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7319562aa1661741a93e7e534df808e
+      internalID: -1515609577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 386
+        width: 214
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a04fa35d7bfa69469ace473572a5127
+      internalID: -494861753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 562
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb685b6aaa097643bc131c083c50140
+      internalID: -2144616383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 561
+        width: 108
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b32c60c955a524a8628e66e7a75ff6
+      internalID: 1085400789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 465
+        width: 305
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a690015b499dc46accb799f782d7db
+      internalID: 1001997295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 530
+        width: 199
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc26a4f7f5a70a4193742b2e5cca31b
+      internalID: 1863894122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 225
+        width: 150
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4052572670d6a468ef4ecaba7fecd4
+      internalID: -513641145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 225
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa370dec58d6214088c49e0579ca6cb
+      internalID: -812101978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 339
+        width: 162
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423fbb21a77ccfa4498d1ef5b9866e18
+      internalID: 1589104833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 284
+        width: 158
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1116c98c48a4de4e83ab20b2ba34597
+      internalID: 107723246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 324
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2fc9fcaa223d243a5b6e85509bb7c7
+      internalID: -297759692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 323
+        width: 190
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaca92cdf3254794cbef16e19e8999a0
+      internalID: 1587879784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 325
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbc87adddf0cce46ae243d771f6bfb5
+      internalID: -2130734698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 326
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6379a1cf2c6bf4d89ed7bcbd64d731
+      internalID: 1559111523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 275
+        width: 111
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb06576b7c0f46947ae70635289da59d
+      internalID: -1921510287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 137
+        width: 68
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f330d30c5c263a0478e5cdaa6fa92c1f
+      internalID: -802827437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 55
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f965a86dec2c39a48b67a1476979edef
+      internalID: -1527916645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 54
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d10ba3890fabe4e9c8814f5a5b6e14
+      internalID: -1265313072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 75
+        width: 91
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db220486c0edc5c4d8f87db4645bcd43
+      internalID: 1457344554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 179
+        width: 162
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad7d2b9aad800942bafe23f39202146
+      internalID: -1321765008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 137
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6b64e1236c2cf48a22c1cac6e5ed97
+      internalID: 1293457675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 55
+        width: 139
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33cbe2ef73f21141b0bbc01d2d5084a
+      internalID: 2037982800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 138
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df0c63270978784d9b0a9bc95887167
+      internalID: -783900030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower-Defense-2D-Game-Kit4 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 136
+        width: 127
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec9659a97b0fb24da7f647cb71012bd
+      internalID: -1826272510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tower-Defense-2D-Game-Kit4 (1)_0: -1069984866
+      Tower-Defense-2D-Game-Kit4 (1)_1: 1602596337
+      Tower-Defense-2D-Game-Kit4 (1)_10: 1863894122
+      Tower-Defense-2D-Game-Kit4 (1)_11: -513641145
+      Tower-Defense-2D-Game-Kit4 (1)_12: -812101978
+      Tower-Defense-2D-Game-Kit4 (1)_13: 1589104833
+      Tower-Defense-2D-Game-Kit4 (1)_14: 107723246
+      Tower-Defense-2D-Game-Kit4 (1)_15: -297759692
+      Tower-Defense-2D-Game-Kit4 (1)_16: 1587879784
+      Tower-Defense-2D-Game-Kit4 (1)_17: -2130734698
+      Tower-Defense-2D-Game-Kit4 (1)_18: 1559111523
+      Tower-Defense-2D-Game-Kit4 (1)_19: -1921510287
+      Tower-Defense-2D-Game-Kit4 (1)_2: 88368262
+      Tower-Defense-2D-Game-Kit4 (1)_20: -802827437
+      Tower-Defense-2D-Game-Kit4 (1)_21: -1527916645
+      Tower-Defense-2D-Game-Kit4 (1)_22: -1265313072
+      Tower-Defense-2D-Game-Kit4 (1)_23: 1457344554
+      Tower-Defense-2D-Game-Kit4 (1)_24: -1321765008
+      Tower-Defense-2D-Game-Kit4 (1)_25: 1293457675
+      Tower-Defense-2D-Game-Kit4 (1)_26: 764968007
+      Tower-Defense-2D-Game-Kit4 (1)_27: 2037982800
+      Tower-Defense-2D-Game-Kit4 (1)_28: -783900030
+      Tower-Defense-2D-Game-Kit4 (1)_29: -1826272510
+      Tower-Defense-2D-Game-Kit4 (1)_3: 673726318
+      Tower-Defense-2D-Game-Kit4 (1)_4: 737610163
+      Tower-Defense-2D-Game-Kit4 (1)_5: -1515609577
+      Tower-Defense-2D-Game-Kit4 (1)_6: -494861753
+      Tower-Defense-2D-Game-Kit4 (1)_7: -2144616383
+      Tower-Defense-2D-Game-Kit4 (1)_8: 1085400789
+      Tower-Defense-2D-Game-Kit4 (1)_9: 1001997295
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
